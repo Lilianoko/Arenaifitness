@@ -424,7 +424,7 @@ body {
 .hero-title { margin-block: 16px 30px; }
 
 .hero-text {
-  color: var(--black-chocolate);
+  color: var(--orange-web);
   font-weight: var(--fw-600);
 }
 
