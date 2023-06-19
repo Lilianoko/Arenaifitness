@@ -62,7 +62,7 @@ form{
 }
 
 .field input:focus{
-    border-color: #4070f4; 
+    border-color: #FFA500; 
 }
 
 .eye-icon{
@@ -78,13 +78,13 @@ form{
 
 .field button{
     color:#fff;
-    background-color: #0171d3;
+    background-color: #FFA500;
     transition: all 0.3s ease;
     cursor: pointer;
 }
 
 .field button:hover{
-    background-color: #025eae;
+    background-color: #FFA500;
 }
 
 .form-link{
