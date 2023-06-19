@@ -12,7 +12,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    /* background: #0D724F;  */
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/jump\ lady\ 2.jpg);
     background-size: cover;
     background-position: center;
